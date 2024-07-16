@@ -21,3 +21,11 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+# Screenshots for reference 
+
+![Screenshot (107)](https://github.com/user-attachments/assets/b0b23631-4085-4023-b953-8bec11ffb022)
+
+![Screenshot (108)](https://github.com/user-attachments/assets/66acf138-f253-478e-914c-24a09ec68ac0)
+
+
+

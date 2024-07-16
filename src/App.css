@@ -1,0 +1,137 @@
+/* src/styles/App.css
+
+body {
+  background-color: #f0f8ff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  padding: 20px;
+}
+
+.child-div {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  width: 100%;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.addItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.addItems input {
+  width: 80%;
+  padding: 10px;
+  border: 2px solid #6a11cb;
+  border-radius: 5px;
+  outline: none;
+}
+
+.addItems .add-btn {
+  background-color: #6a11cb;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.addItems .add-btn:hover {
+  background-color: #2575fc;
+}
+
+.eachItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  margin-top: 10px;
+}
+
+.eachItem h3 {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+}
+
+.todo-btn {
+  display: flex;
+  align-items: center;
+}
+
+.todo-btn .add-btn {
+  background-color: #ff4d4d;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.todo-btn .add-btn:hover {
+  background-color: #ff1a1a;
+}
+
+.btn.effect04 {
+  background-color: #6a11cb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn.effect04:hover {
+  background-color: #2575fc;
+  transform: scale(1.05);
+}
+
+.btn.effect04 span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn.effect04:before {
+  content: attr(data-sm-link-text);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 1;
+}
+
+.btn.effect04:hover:before {
+  opacity: 1;
+}
+
+.btn.effect04:hover span {
+  opacity: 0;
+} */
